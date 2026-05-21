@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on open source projects
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning JAVA
 
 💬 Ask me about Tech and Open Source
 
